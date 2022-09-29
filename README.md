@@ -6,9 +6,5 @@ Summary of Stuff here
 
 Do Things here , do more stuff 123456
 
-<<<<<<< HEAD
-
-sadddddddddddddd
-=======
 Update main branch
->>>>>>> ef51c95524866aaa48c2faef4f43fe02e01a35d3
+
